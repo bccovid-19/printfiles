@@ -14,19 +14,27 @@ Currently we are getting organized using the [BC Covid-19 3D Printing Slack chan
 
 ## How can I help? ##
 
-First you should sign up as a supplier using this [form](https://sites.google.com/view/gvrd-face-shield-printers/home/headset-printers).
-Check the demand for the items [here](https://sites.google.com/view/gvrd-face-shield-printers/home/total-supply-and-demand?authuser=0).
-Download the .stl files in this repo. Those are the files being used by our community.
+- First you should sign up as a supplier using this [form](https://sites.google.com/view/gvrd-face-shield-printers/home/headset-printers).
+- Check the demand for the items [here](https://sites.google.com/view/gvrd-face-shield-printers/home/total-supply-and-demand?authuser=0).
+- Download the .stl files in this repo. Those are the files being used by our community.
 
 ## Is there a specific item in high demand? ##
 
 Both [Visor Frames](https://github.com/bccovid-19/printfiles/tree/master/3DV%20Visor%20Frame)) and [Surgical Mask Strap](https://github.com/bccovid-19/printfiles/tree/master/Surgical%20Mask%20Strap) are needed. You can check the current demand for the items [here](https://sites.google.com/view/gvrd-face-shield-printers/home/total-supply-and-demand?authuser=0).
 
+## What 3D printers are required, known to work, or recommended? ##
+
+Visor frames measure 159x184mm so printers must have plates large enough. Beyond this any FDM printer should work.
+
 ## Am I required to print with a specific filament type? ##
 
-For the Visor Frames, *PETG is preferred* but PLA is acceptable.
-For the Surgical Mask Strap, *PLA is preferred*, but PETG will also work.
+- For the *Visor Frames*, *PETG is preferred* but PLA is acceptable.
+- For the *Surgical Mask Strap*, *PLA is preferred*, but PETG will also work.
 
 ## Are there any specific slicing configurations needed (layer height, printing speed, etc.)? ##
 
 Please take some time to read [this guide](https://3dverkstan.se/protective-visor/protective-visor-print-guide/), since it has some good information that can even speed up the printing time.
+
+## I have a few items printed, what now? ##
+
+Delivery is likely to be handled by a local company, as will most pick-ups (more details expected by April 1st, 2020). We'll ask that each producer withhold the items they've printed for collection when there's a decent amount available, rather than a few at a time.
