@@ -1,4 +1,4 @@
-# surgical_mask_strap_small_V003_Z60%_Single
+# MS.V3: surgical_mask_strap_small_V003_Z60%_Single
 
 ## Recommended print settings
  - Material: PLA
