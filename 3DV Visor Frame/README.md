@@ -9,3 +9,7 @@ The [0.6mm Version](./Visor_Frame_NORTH_AMERICA_letter_6-hole_v5-0.6mm_chamferre
 
 # Extended Visor
 The [Entended Visor](./3DVerkstan_RetroLabs_v5_padded_NA_6hole.stl) version can be used for practitioners needing an extended space between the visor and the face to accommodate glasses or goggles. It has been confirmed to work with the same dimensions and hole pattern as the standard version.
+
+# Files for Prusa MK3 and MK3s
+
+Within the `For Prusa MK3 and MK3s` folder you will find two 3mf files. They are the same only one has had the bands flipped to spread the wear on the build platform a bit better.
