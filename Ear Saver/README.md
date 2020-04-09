@@ -6,7 +6,8 @@
 - Nozzle: 0.4 mm
 - Extrusion width/line width (preferred): 0.72 mm
 - Extrusion width/line width (alternative): any divisor of 3.5 mm (eg. 0.5 mm, 0.583 mm, 0.7 mm, 0.875 mm)
-- Layer Height: 0.3 mm (important for efficient slicing)
+- Initial layer height: 0.3 mm
+- Layer height: 0.3 mm (important for efficient slicing)
 - Infill: N/A - Thin enough that it should print solid
 - Walls: 3-4 for extrusion width of 0.72 mm; 5 for thinner extrusion width
 - Support: No (N/A)
