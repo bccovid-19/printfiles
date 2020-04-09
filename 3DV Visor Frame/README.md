@@ -4,6 +4,15 @@ Please see http://faceshield.nu for information.
 - [Print Settings Guide](https://3dverkstan.se/protective-visor/protective-visor-print-guide/)
 - [Packaging & Handling](http://translate.google.com/translate?js=n&sl=sv&tl=en&u=https://3dverkstan.se/protective-visor/protective-visor-packing-handling/), specific to Sweden, but useful nonetheless.
 
+# Common/Recommended Print Settings (See Print Settings Guide above for further details)
+- Material: PETG, PLA acceptable if no other choice
+- Nozzle: 0.4 mm
+- Extrusion Width (preferred): 0.72 mm
+- Layer Height: ~0.3 mm
+- Infill: 0%, increase if nubs have holes in them
+- Walls: 4, goal is to have solid fill, i.e. the arms should be only filled with perimeters
+- Support: No (N/A)
+
 # File Selection
 The [Extended Visor](./3DVerkstan_RetroLabs_v5_padded_NA_6hole.stl) version is preferred due to the increased forehead clearance and comfort. If your build plate cannot fit this model, then the standard [0.6mm Version](./Visor_Frame_NORTH_AMERICA_letter_6-hole_v5-0.6mm_chamferred.stl) and  [1mm Version](./Visor_Frame_NORTH_AMERICA_letter_6-hole_v5-1mm_chamferred.stl) are acceptable.
 
