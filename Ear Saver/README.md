@@ -4,7 +4,7 @@
 
  - Material: PLA
  - Nozzle: 0.4 mm
- - Extrusion Width (preffered): 0.72 mm
+ - Extrusion Width (preferred): 0.72 mm
  - Extrusion Width (alternative): any divisor of 3.5mm (eg. 0.5, 0.583, 0.7, 0.875)
  - Layer Height: 0.3 mm (important for efficient slicing)
  - Infill: N/A - Thin enough that it should print solid
