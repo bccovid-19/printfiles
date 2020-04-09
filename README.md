@@ -20,7 +20,7 @@ Currently we are getting organized using the [BC Covid-19 3D Printing Slack chan
 
 ## Is there a specific item in high demand? ##
 
-Both [Visor Frames](https://github.com/bccovid-19/printfiles/tree/master/3DV%20Visor%20Frame)) and [Surgical Mask Strap](https://github.com/bccovid-19/printfiles/tree/master/Surgical%20Mask%20Strap) are needed. You can check the current demand for the items [here](https://sites.google.com/view/gvrd-face-shield-printers/home/total-supply-and-demand?authuser=0).
+Both [Visor Frames](https://github.com/bccovid-19/printfiles/tree/master/3DV%20Visor%20Frame)) and [Ear Saver](https://github.com/bccovid-19/printfiles/tree/master/Ear%20Saver) are needed. You can check the current demand for the items [here](https://sites.google.com/view/gvrd-face-shield-printers/home/total-supply-and-demand?authuser=0).
 
 ## What 3D printers are required, known to work, or recommended? ##
 
@@ -29,7 +29,7 @@ Visor frames measure 159x184mm so printers must have plates large enough. Beyond
 ## Am I required to print with a specific filament type? ##
 
 - For the *Visor Frames*, *PETG is preferred* but PLA is acceptable.
-- For the *Surgical Mask Strap*, *PLA is preferred*, but PETG will also work.
+- For the *Ear Saver*, *PLA is preferred*, but PETG will also work.
 
 ## Are there any specific slicing configurations needed (layer height, printing speed, etc.)? ##
 
