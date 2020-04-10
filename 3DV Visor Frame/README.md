@@ -20,7 +20,7 @@ The [Extended Visor](./3DVerkstan_RetroLabs_v5_padded_NA_6hole.stl) version is p
 The [0.6mm Version](./Visor_Frame_NORTH_AMERICA_letter_6-hole_v5-0.6mm_chamferred.stl) should be tried first, as it has a reduced print time. If this version adheres too much to your print bed and is unable to be removed without damage please switch to the [1mm Version](./Visor_Frame_NORTH_AMERICA_letter_6-hole_v5-1mm_chamferred.stl).
 
 # Extended Visor
-The [Extended Visor](./3DVerkstan_RetroLabs_v5_padded_NA_6hole.stl) version can be used for practitioners needing an extended space between the visor and the face to accommodate glasses or goggles. It also increases the width of of the forehead contact surface and permits the use of padding (weatherstripping foam) if desired. It has been confirmed to work with the same dimensions and hole pattern as the standard version.
+The [Extended Visor](./bcc3d_extended_v5.stl) version can be used for practitioners needing an extended space between the visor and the face to accommodate glasses or goggles. It also increases the width of of the forehead contact surface and permits the use of padding (weatherstripping foam) if desired. It has been confirmed to work with the same dimensions and hole pattern as the standard version.
 
 # Files for Prusa MK3 and MK3s
 
