@@ -16,7 +16,7 @@ Currently we are getting organized using the [BC Covid-19 3D Printing Slack chan
 
 - First you should sign up as a supplier using this [form](https://sites.google.com/view/gvrd-face-shield-printers/home/headset-printers).
 - Check the demand for the items [here](https://sites.google.com/view/gvrd-face-shield-printers/home/total-supply-and-demand?authuser=0).
-- Download the .STL files in this repo. Those are the files being used by our community.
+- Download the `.stl` files in this repo. Those are the files being used by our community.
 
 ## Is there a specific item in high demand? ##
 
