@@ -53,4 +53,4 @@ Within the `For Prusa MK3 and MK3s` folder you will find two .3mf files. These a
 
 # License
 This remix is created under Creative Commons Attribution Share Alike
-Commercial use is allowed, you must attribute the creator, you may remix this work and the remixed work should be made available under this license.
+- Commercial use is allowed, you must attribute the creator, you may remix this work and the remixed work should be made available under this license.
