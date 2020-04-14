@@ -28,7 +28,7 @@ Visor frames measure 159x193mm so printers must have plates large enough. If you
 
 ## Am I required to print with a specific filament type? ##
 
-- For both visor frames and ear savers, *PETG is preferred* but PLA is acceptable.
+- For both visor frames and ear savers, *PETG is preferred but PLA is acceptable.*
 
 ## Are there any specific slicing configurations needed (layer height, printing speed, etc.)? ##
 
