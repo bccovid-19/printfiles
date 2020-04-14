@@ -2,7 +2,7 @@
 
 ## Recommended print settings
 
-- Material: PLA
+- Material: *PETG is preferred, PLA is acceptable*
 - Nozzle: 0.4 mm
 - Extrusion width/line width (preferred): 0.72 mm
 - Extrusion width/line width (alternative): any divisor of 3.5 mm (eg. 0.5 mm, 0.583 mm, 0.7 mm, 0.875 mm)
