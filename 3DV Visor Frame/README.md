@@ -52,5 +52,5 @@ Within the `For Prusa MK3 and MK3s` folder you will find two .3mf files. These a
 - Original North America 6-hole version provided by 3DVerkstan
 
 # License
-This remix is created under Creative Commons Attribution Share Alike
+This remix is created under [Creative Commons Attribution Share Alike](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 - Commercial use is allowed, you must attribute the creator, you may remix this work and the remixed work should be made available under this license.
