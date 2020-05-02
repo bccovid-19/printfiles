@@ -15,7 +15,7 @@ Please see http://faceshield.nu for information.
 - Walls: 3-4, goal is to have solid fill, i.e. the arms should be only filled with perimeters
 - Support: No (N/A)
 - Note that these are relatively aggressive print settings, may not work with all printers and will likely require finetuning. Your hotend's maximum volumetric flow (a factor of your extrusion width, layer height, and print speed) will likely determine how fast you can print each visor frame. For most printers, between 9-25 minutes/frame is very reasonable. You may need to run your extruder temperature hotter than normal to maintain good flow.
-- For anyone new to printing PETG, main points to remember compared to PLA, it needs a hotter extruder temperature (220-260C), hotter build plate (70-100C), and is prone to stringing. Consider enabling "Combing" or equivalent, and especially with bowden setups, pay attention to retraction distance, retraction speed, and travel speed.
+- For anyone new to printing PETG, main points to remember compared to PLA, it needs a hotter extruder temperature (220-260C), hotter build plate (70-100C), and is prone to stringing. Consider enabling "Combing" (print head avoids crossing perimeters) or equivalent, and especially with bowden setups, pay attention to retraction distance, retraction speed, and travel speed.
 
 
 # File Selection
