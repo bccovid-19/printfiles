@@ -6,13 +6,17 @@ Please see http://faceshield.nu for information.
 
 # Common/Recommended Print Settings (See Print Settings Guide above for further details)
 - Material: PETG, PLA acceptable if no other choice
-- Nozzle: 0.4 mm
-- Extrusion Width (preferred): 0.72 mm
-- Extrusion Width (alternate): 0.70 mm, or see the guide.
+- Nozzle: 0.4 mm (most common) to 1.0 mm
+- Extrusion Width (0.4 mm to 0.6 mm nozzle, preferred): 0.72 mm
+- Extrusion Width (0.4 mm to 0.6 mm nozzle, alternate): 0.70 mm, or see the guide.
+- Extrusion Width (0.8 mm to 1.0 mm nozzle): 1.0 mm
 - Layer Height: ~0.3 mm
-- Infill: 0%, increase if nubs have holes in them
-- Walls: 4, goal is to have solid fill, i.e. the arms should be only filled with perimeters
+- Infill: 0%, or increase to 100% if nubs have holes in them
+- Walls: 3-4, goal is to have solid fill, i.e. the arms should be only filled with perimeters
 - Support: No (N/A)
+- Note that these are relatively aggressive print settings, may not work with all printers and will likely require finetuning. Your hotend's maximum volumetric flow (a factor of your extrusion width, layer height, and print speed) will likely determine how fast you can print each visor frame. For most printers, between 9-25 minutes/frame is very reasonable. You may need to run your extruder temperature hotter than normal to maintain good flow.
+- For anyone new to printing PETG, main points to remember compared to PLA, it needs a hotter extruder temperature (220-260C), hotter build plate (70-100C), and is prone to stringing. Consider enabling "Combing" (print head avoids crossing perimeters) or equivalent, and especially with bowden setups, pay attention to retraction distance, retraction speed, and travel speed.
+
 
 # File Selection
 The [Extended Visor](./bcc3d_extended_v5.stl) version is preferred due to the increased forehead clearance and comfort. If your build plate cannot fit this model, then the standard [0.6mm Version](./Visor_Frame_NORTH_AMERICA_letter_6-hole_v5-0.6mm_chamferred.stl) and  [1mm Version](./Visor_Frame_NORTH_AMERICA_letter_6-hole_v5-1mm_chamferred.stl) are acceptable.
