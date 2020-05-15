@@ -4,9 +4,10 @@
 
 - Material: *PETG is preferred, PLA is acceptable*
 - Nozzle: 0.4 mm to 1.0 mm
-- Extrusion width (0.4 mm to 0.6 mm nozzle, preferred): 0.72 mm
-- Extrusion width (0.4 mm to 0.6 mm nozzle, alternate): any divisor of 3.5 mm (eg. 0.5 mm, 0.583 mm, 0.7 mm, 0.875 mm)
-- Extrusion width (0.8 mm to 1.0 mm nozzle): 1.44 mm
+- PrusaSlicer/Slic3r Extrusion Width (0.4 mm to 0.6 mm nozzle): 0.84 mm
+- PrusaSlicer/Slic3r Extrusion Width (0.8 mm to 1.0 mm nozzle): 1.54 mm
+- Cura Line Width (0.4 mm to 0.6 mm nozzle): 0.7 mm
+- Cura Line Width (0.8 mm to 1.0 mm nozzle): 1.4 mm
 - Initial layer height: !!! This must be 0.3 mm
 - Layer height: !!! This must be 0.3 mm
 - Infill: N/A - Thin enough that it should print solid
