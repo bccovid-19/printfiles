@@ -8,7 +8,6 @@ Please see http://faceshield.nu for information.
 - Material: PETG, PLA acceptable if no other choice
 - Nozzle: 0.4 mm (most common) to 1.0 mm
 - PrusaSlicer/Slic3r Extrusion Width (0.4 mm to 0.6 mm nozzle): 0.72 mm
-- PrusaSlicer/Slic3r Extrusion Width (0.8 mm to 1.0 mm nozzle): 1.14 mm
 - Cura Line Width (0.4 mm to 0.6 mm nozzle): 0.66 mm
 - Cura Line Width (0.8 mm to 1.0 mm nozzle): 1.0 mm
 - Layer Height: 0.3 mm*
