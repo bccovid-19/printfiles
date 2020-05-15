@@ -4,6 +4,7 @@
 
 - Material: *PETG is preferred, PLA is acceptable*
 - Nozzle: 0.4 mm to 1.0 mm
+- Note that if printing alongside visor frames, the recommended settings for the visors will work well-enough for the ear savers too.
 - PrusaSlicer/Slic3r Extrusion Width (0.4 mm to 0.6 mm nozzle): 0.84 mm
 - PrusaSlicer/Slic3r Extrusion Width (0.8 mm to 1.0 mm nozzle): 1.54 mm
 - Cura Line Width (0.4 mm to 0.6 mm nozzle): 0.7 mm
